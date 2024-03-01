@@ -3,6 +3,7 @@ Hola chicos en este repositorio encontraran la programación y los comandos comp
 
 ### Conceptos introductorios:
 - Para iniciar recomendamos ver algunos conceptos introductorios con el fin de entender un poco mejor todo el funcionamiento, por eso te dejamos la explicacion en este [video.](https://youtu.be/PSFw_ipK3ug)
+- El modelo lo puedes encontrar [aqui.](https://huggingface.co/AprendeIngenia/recyclingAI)
 
 ### Reciclaje AI:
 Este repo contiene un sistema de detección de objetos especializado en identificar diferentes categorías de residuos y materiales reciclables. Ha sido entrenado con una variedad de imágenes de residuos comunes, como papel, cartón, vidrio, metal y plástico, para proporcionar predicciones precisas y confiables.
